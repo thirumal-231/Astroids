@@ -1,2 +1,2 @@
 # Astroids
-# [Play] (https://play.unity.com/mg/other/astroids)
+# Play [play](https://play.unity.com/mg/other/astroids)
